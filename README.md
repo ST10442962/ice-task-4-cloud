@@ -18,4 +18,5 @@ This is a basic Azure Function written in C# that greets the user by name.
 2. Press **F5** to run the Azure Function locally.
 3. In your browser or Postman, enter:
 
-![Function Running Screenshot](./Screenshot%202025-05-22%20234801.png)
+![Function Running Screenshot](Screenshot%202025-05-22%20234801.png)
+
